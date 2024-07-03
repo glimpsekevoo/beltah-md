@@ -47,7 +47,7 @@ function _0x4925() {
         'length',
         '\x20second',
         'QmFeS',
-        'y\x20FLASH-MD',
+        'y\x20BELTAH-MD',
         'link...',
         '6108JYdMzG',
         '4|5|0|1|9|',
